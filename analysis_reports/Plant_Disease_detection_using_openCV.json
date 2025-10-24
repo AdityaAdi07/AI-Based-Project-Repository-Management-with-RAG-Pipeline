@@ -1,0 +1,71 @@
+{
+    "query": "Plant Disease detection using openCV",
+    "results": [
+        {
+            "id": "180",
+            "title": "The applications of ML in disease and pest detection in agriculture",
+            "domain": "Artificial Intelligence / Data Science",
+            "tech_stack": "TensorFlow, PyTorch, OpenCV, scikit-image, Python, Kotlin",
+            "source": "ISE-dept",
+            "sim_whole": 0.5372730324546175,
+            "sim_title": 0.4984315351973968,
+            "sim_description": 0.5372730324546175,
+            "sim_tech_stack": 0.33507868131581964,
+            "sim_objective": 0,
+            "doc_snippet": "The applications of ML in disease and pest detection in agriculture - ML has the potential to revolutionize farming in many ways. ML can help in the detection of pests and diseases in crops at an early stage by analysing pictures of leaves, stems, yield, and other crop details. Pictures can be taken"
+        },
+        {
+            "id": "20",
+            "title": "Contact tracing system",
+            "domain": "Artificial Intelligence / Data Science",
+            "tech_stack": "Python, Flask, NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn, Python",
+            "source": "ISE-dept",
+            "sim_whole": 0.3740136930297225,
+            "sim_title": 0.12699921948146986,
+            "sim_description": 0.3740136930297225,
+            "sim_tech_stack": 0.11592788478754924,
+            "sim_objective": 0,
+            "doc_snippet": "Contact tracing system - This project aims at tracing whether an individual was in contact with an infected person. The contact tracing system can predict whether an individual has been in close contact with an infected person based on various factors. It will assist public health institutions in ma"
+        },
+        {
+            "id": "12",
+            "title": "Heart disease detection",
+            "domain": "Artificial Intelligence / Data Science",
+            "tech_stack": "Python, Scikit-learn, TensorFlow, Pandas, NumPy, Matplotlib, Seaborn, Plotly",
+            "source": "ISE-dept",
+            "sim_whole": 0.3290328349156151,
+            "sim_title": 0.48059869414278555,
+            "sim_description": 0.3290328349156151,
+            "sim_tech_stack": 0.06688766271189824,
+            "sim_objective": 0,
+            "doc_snippet": "Heart disease detection - The heart disease detection project aims to build a tool that will help users detect the presence of heart disease. It uses Python and the supervised learning technique of classification to accurately predict the presence of a heart disease based on different medical factor"
+        },
+        {
+            "id": "140",
+            "title": "Smart Farming and Agriculture",
+            "domain": "IoT / Embedded Systems",
+            "tech_stack": "Python with Keras for deep learning and TensorFlow for machine learning, Flask or Django as web frameworks, Scikit-learn for data preprocessing and analysis, OpenCV for computer vision tasks, SQLite or PostgreSQL for database management",
+            "source": "ISE-dept",
+            "sim_whole": 0.31416293452299937,
+            "sim_title": 0.29227058264168265,
+            "sim_description": 0.31416293452299937,
+            "sim_tech_stack": 0.19580315430430795,
+            "sim_objective": 0,
+            "doc_snippet": "Smart Farming and Agriculture - Another excellent idea to work for enhancing the agricultural sector. You can work on developing gadgets or technology that will help farmers have insights about the soil and climate and plan their farming methods accordingly. IoT devices like detectors for soil's moi"
+        },
+        {
+            "id": "232",
+            "title": "Handwritten Digit Recognition Using Neural Network:",
+            "domain": "Artificial Intelligence / Data Science",
+            "tech_stack": "TensorFlow, PyTorch, Keras, OpenCV",
+            "source": "ISE-dept",
+            "sim_whole": 0.307781472686316,
+            "sim_title": 0.2851915673202552,
+            "sim_description": 0.307781472686316,
+            "sim_tech_stack": 0.36844065977841656,
+            "sim_objective": 0,
+            "doc_snippet": "Handwritten Digit Recognition Using Neural Network: - A classic, yet always fresh project, handwritten digit recognition opens up neural net computer vision for students. With the MNIST database, one can train a convolutionary neural network (CNN) using a TensorFlow or PyTorch framework--to interpre"
+        }
+    ],
+    "ai_analysis": "I'll evaluate each of the 5 student projects and provide feedback on why they matched the query, suggestions for making them more original, and three general originality improvement tips.\n\n**1. The applications of ML in disease and pest detection in agriculture**\n\nWhy it matched: This project is similar to the current query because it explores the use of Machine Learning (ML) in detecting diseases and pests in crops, which is a relevant application of computer vision techniques.\n\nSuggestions for making it more original:\n\n* Instead of focusing on general applications of ML in disease detection, consider exploring specific types of crops or regions where this technology can have the most impact.\n* Investigate the use of transfer learning or domain adaptation techniques to improve the accuracy of disease detection models, which could lead to innovative solutions.\n\n**2. Contact tracing system**\n\nWhy it matched: This project is similar to the current query because it involves tracking and predicting individual behavior, which is a relevant application of computer vision techniques.\n\nSuggestions for making it more original:\n\n* Instead of focusing on contact tracing in general, consider exploring specific scenarios or populations where this technology can have the most impact, such as schools or public transportation systems.\n* Investigate the use of multimodal data fusion (e.g., combining images with wearable sensor data) to improve the accuracy of contact tracing models.\n\n**3. Heart disease detection**\n\nWhy it matched: This project is similar to the current query because it involves image-based classification and prediction, which is a relevant application of computer vision techniques.\n\nSuggestions for making it more original:\n\n* Instead of focusing on heart disease detection in general, consider exploring specific types of images or diagnostic features that can improve accuracy (e.g., using ultrasound images instead of X-rays).\n* Investigate the use of deep learning architectures (e.g., attention-based CNNs) to improve the performance of heart disease detection models.\n\n**4. Smart Farming and Agriculture**\n\nWhy it matched: This project is similar to the current query because it involves IoT devices and image processing, which are relevant applications of computer vision techniques.\n\nSuggestions for making it more original:\n\n* Instead of focusing on general smart farming solutions, consider exploring specific aspects of farm management (e.g., crop monitoring or soil analysis) where this technology can have a significant impact.\n* Investigate the use of edge computing or real-time processing to enable seamless integration with IoT devices and reduce latency.\n\n**5. Handwritten Digit Recognition Using Neural Network**\n\nWhy it matched: This project is similar to the current query because it involves image-based classification and prediction, which is a relevant application of computer vision techniques.\n\nSuggestions for making it more original:\n\n* Instead of using the MNIST dataset, consider exploring other datasets (e.g., handwritten recognition in languages with varying scripts or fonts) that can provide new challenges and insights.\n* Investigate the use of attention mechanisms or other novel neural network architectures to improve the performance of handwritten digit recognition models.\n\n**Three general originality improvement tips:**\n\n1. **Explore unconventional domains**: Instead of focusing on well-trodden paths in computer vision, consider exploring less common applications of image processing techniques, such as medical imaging, environmental monitoring, or cultural heritage preservation.\n2. **Combine multiple disciplines**: Computer vision is often used in conjunction with other fields (e.g., machine learning, robotics, or signal processing). Consider integrating your project with another discipline to create a more comprehensive and innovative solution.\n3. **Investigate novel architectures and techniques**: Instead of relying on established deep learning architectures, consider exploring new neural network designs, such as attention-based models, graph convolutional networks, or generative adversarial networks (GANs)."
+}
